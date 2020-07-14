@@ -1,4 +1,5 @@
-### Hi Everyone! I'm Esli Silva
+### Hi Everyone! I'm Esli Silva [![Curriculo](https://img.icons8.com/fluent/48/000000/resume-website.png)](https://esli.blog.br/me/)
+
 
 
 <br/>
@@ -19,8 +20,6 @@
 </a>
 <br/>
 
-[![Curriculo](https://img.icons8.com/fluent/48/000000/resume-website.png)](https://esli.blog.br/me/)
-<br/>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
