@@ -9,6 +9,19 @@
 <a href="https://www.linkedin.com/in/esl1h">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://stackoverflow.com/users/4122311/esli-silva">
+  <img align="left" alt="StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
+</a>
+<a href="https://youtube.com/channel/UC52vCjpqZkKrNL9VxZeuvcA">
+  <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
+</a>
+<a href="https://medium.com/@esl1h">
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
+</a>
+
+
+
+
 <a href="https://t.me/Esl1h">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
