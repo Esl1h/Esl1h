@@ -18,10 +18,6 @@
 <a href="https://medium.com/@esl1h">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
 </a>
-
-
-
-
 <a href="https://t.me/Esl1h">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -33,10 +29,25 @@
 </a>
 <br/>
 
+<br/>
+
 
 
 <img  align="right" src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 <br/>
 
+### Projetos:
+
+https://esli-nux.com ![](https://flat.badgen.net/badge/feito%20com/Blogger%20%26%20Coudflare/orange?icon=chrome)
+
+
+https://esli.blog.br ![](https://flat.badgen.net/badge/feito%20com/Ghost%20%26%20DigitalOcean%20%26%20Coudflare/gray?icon=docker)
+
+https://anchor.fm/esl1h Sysadmin/SRE Podcast
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Esl1h.Esl1h)
+
+
+
+
