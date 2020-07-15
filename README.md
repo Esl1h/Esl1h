@@ -39,12 +39,15 @@
 
 ### Projetos:
 
-https://esli-nux.com ![](https://flat.badgen.net/badge/feito%20com/Blogger%20%26%20Coudflare/orange?icon=chrome)
+https://esli-nux.com 
+<br/>![](https://flat.badgen.net/badge/feito%20com/Blogger%20%26%20Coudflare/orange?icon=chrome)
 
 
-https://esli.blog.br ![](https://flat.badgen.net/badge/feito%20com/Ghost%20%26%20DigitalOcean%20%26%20Coudflare/gray?icon=docker)
+https://esli.blog.br 
+</br>![](https://flat.badgen.net/badge/feito%20com/Ghost%20%26%20DigitalOcean%20%26%20Coudflare/gray?icon=docker)
 
-https://anchor.fm/esl1h Sysadmin/SRE Podcast
+https://anchor.fm/esl1h 
+<br/>Podcast Sysadmin/SRE 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Esl1h.Esl1h)
 
