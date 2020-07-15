@@ -6,7 +6,7 @@
 <a href="https://twitter.com/esli-nux">
   <img align="left" alt="Esli Silva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/esl1h">
+<a href="https://www.linkedin.com/in/eslih">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/4122311/esli-silva">
@@ -33,12 +33,20 @@
 <a href="https://steamcommunity.com/id/esl1h">
   <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
 </a>
-
-
-
-
+<a href="https://anchor.fm/esl1h">
+  <img align="left" alt="Podcast" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/anchor.svg" />
+</a>
+<a href="https://anchor.fm/esl1h">
+  <img align="left" alt="Podcast" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/anchor.svg" />
+</a>
+<a href="https://esli.blog.br/">
+  <img align="left" alt="Blog Pessoal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ghost.svg" />
+</a>
+<a href="https://esli-nux.com">
+  <img align="left" alt="Site Esli-nux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/blogger.svg" />
+</a>
 <br/>
-
+<br/>
 
 <img  align="right" src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
