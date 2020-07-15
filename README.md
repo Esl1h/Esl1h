@@ -36,9 +36,6 @@
 <a href="https://anchor.fm/esl1h">
   <img align="left" alt="Podcast" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/anchor.svg" />
 </a>
-<a href="https://anchor.fm/esl1h">
-  <img align="left" alt="Podcast" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/anchor.svg" />
-</a>
 <a href="https://esli.blog.br/">
   <img align="left" alt="Blog Pessoal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ghost.svg" />
 </a>
