@@ -52,11 +52,11 @@
 ### Projetos:
 
 https://esli-nux.com 
-<br/>![](https://flat.badgen.net/badge/feito%20com/Blogger%20%26%20Coudflare/orange?icon=chrome)
+<br/>![](https://flat.badgen.net/badge/feito%20com/Blogger%20%26%20Cloudflare/orange?icon=chrome)
 
 
 https://esli.blog.br 
-</br>![](https://flat.badgen.net/badge/feito%20com/Ghost%20%26%20DigitalOcean%20%26%20Coudflare/gray?icon=docker)
+</br>![](https://flat.badgen.net/badge/feito%20com/Ghost%20%26%20DigitalOcean%20%26%20Cloudflare/gray?icon=docker)
 
 https://anchor.fm/esl1h 
 <br/>Podcast Sysadmin/SRE 
