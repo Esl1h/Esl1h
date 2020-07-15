@@ -1,4 +1,4 @@
-###  [![Curriculo](https://img.icons8.com/fluent/48/000000/resume-website.png)](https://esli.blog.br/me/) Hi Everyone! I'm Esli Silva
+###  Hi Everyone! I'm Esli Silva
 
 
 
@@ -27,10 +27,17 @@
 <a href="https://www.reddit.com/user/Esl1h">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<br/>
+<a href="https://flowcrypt.com/me/esli">
+  <img align="left" alt="Mail Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+<a href="https://steamcommunity.com/id/esl1h">
+  <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
+</a>
+
+
+
 
 <br/>
-
 
 
 <img  align="right" src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
@@ -48,6 +55,8 @@ https://esli.blog.br
 
 https://anchor.fm/esl1h 
 <br/>Podcast Sysadmin/SRE 
+
+### [![Curriculo](https://img.icons8.com/fluent/48/000000/resume-website.png)<br>Curriculo](https://esli.blog.br/me/) 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Esl1h.Esl1h)
 
