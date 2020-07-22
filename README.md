@@ -1,8 +1,11 @@
 ###  Hi Everyone! I'm Esli Silva
-
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/Esl1h/my-stack)
 
 
 <br/>
+<a href="https://stackshare.io/Esl1h/my-stack">
+  <img align="left" alt="Esli Silva | My Stack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackshare.svg" />
+</a>
 <a href="https://twitter.com/esli-nux">
   <img align="left" alt="Esli Silva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -42,7 +45,7 @@
 <a href="https://esli-nux.com">
   <img align="left" alt="Site Esli-nux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/blogger.svg" />
 </a>
-<br/>
+<br/> 
 <br/>
 
 <img  align="right" src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
@@ -51,20 +54,24 @@
 
 ### Projetos:
 
-https://esli-nux.com 
-<br/>![](https://flat.badgen.net/badge/feito%20com/Blogger%20%26%20Cloudflare/orange?icon=chrome)
+https://esli-nux.com ![](https://img.shields.io/badge/made%20w%2F-Blogger%20%26%20Cloudflare-orange)
 
 
-https://esli.blog.br 
-</br>![](https://flat.badgen.net/badge/feito%20com/Ghost%20%26%20DigitalOcean%20%26%20Cloudflare/gray?icon=docker)
+https://esli.blog.br ![](https://img.shields.io/badge/made%20w%2F-Ghost%2FDigitalOcean%2FCloudflare-blue)
 
-https://anchor.fm/esl1h 
-<br/>Podcast Sysadmin/SRE 
-
-### [![Curriculo](https://img.icons8.com/fluent/48/000000/resume-website.png)<br>Curriculo](https://esli.blog.br/me/) 
+https://anchor.fm/esl1h Podcast Sysadmin/SRE 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Esl1h.Esl1h)
 
 
 
 
+
+<details>
+<summary>About me</summary>
+
+<ul><li>
+
+[Bio](https://esli.blog.br/me/) </li>
+
+</details>
