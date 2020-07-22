@@ -80,3 +80,6 @@ https://anchor.fm/esl1h Podcast Sysadmin/SRE
 <a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/31b45317c72437a8368a68ce7a86f6"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
 
 https://stackshare.io/Esl1h/my-stack
+
+
+![](https://embed.stackshare.io/stacks/embed/31b45317c72437a8368a68ce7a86f6)
