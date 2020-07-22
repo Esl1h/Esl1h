@@ -1,8 +1,11 @@
 ###  Hi Everyone! I'm Esli Silva
-
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/Esl1h/my-stack)
 
 
 <br/>
+<a href="https://stackshare.io/Esl1h/my-stack">
+  <img align="left" alt="Esli Silva | My Stack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackshare.svg" />
+</a>
 <a href="https://twitter.com/esli-nux">
   <img align="left" alt="Esli Silva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -71,15 +74,4 @@ https://anchor.fm/esl1h Podcast Sysadmin/SRE
 
 [Bio](https://esli.blog.br/me/) </li>
 
-<li>
-
-[Stack](https://stackshare.io/Esl1h/my-stack) </li>
-
 </details>
-
-<a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/31b45317c72437a8368a68ce7a86f6"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
-
-https://stackshare.io/Esl1h/my-stack
-
-
-![](https://embed.stackshare.io/stacks/embed/31b45317c72437a8368a68ce7a86f6)
