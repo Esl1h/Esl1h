@@ -54,12 +54,20 @@
 
 ### Projetos:
 
-https://esli-nux.com ![](https://img.shields.io/badge/made%20w%2F-Blogger%20%26%20Cloudflare-orange)
+https://esli-nux.com 
+
+![](https://img.shields.io/badge/made%20w%2F-Blogger%20%26%20Cloudflare-orange)
 
 
-https://esli.blog.br ![](https://img.shields.io/badge/made%20w%2F-Ghost%2FDigitalOcean%2FCloudflare-blue)
+https://esli.blog.br 
 
-https://anchor.fm/esl1h Podcast Sysadmin/SRE 
+![](https://img.shields.io/badge/made%20w%2F-Ghost%2FDigitalOcean%2FCloudflare-blue)
+
+https://anchor.fm/esl1h 
+
+Podcast Sysadmin/SRE 
+
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Esl1h.Esl1h)
 
@@ -73,5 +81,10 @@ https://anchor.fm/esl1h Podcast Sysadmin/SRE
 <ul><li>
 
 [Bio](https://esli.blog.br/me/) </li>
+
+
+
+![](https://embed.stackshare.io/stacks/embed/31b45317c72437a8368a68ce7a86f6)
+
 
 </details>
