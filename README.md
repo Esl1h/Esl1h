@@ -1,5 +1,6 @@
 ###  Hi Everyone! I'm Esli Silva
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/Esl1h/my-stack)
+
+[![CloudAcademy](https://img.shields.io/badge/MyTech-Stack-green)](https://cloudacademy.com/profile/7160ca43-3248-48a5-beb1-44533e78bf00) [![CloudAcademy](https://img.shields.io/badge/Profile-CloudAcademy-blue)](https://cloudacademy.com/profile/7160ca43-3248-48a5-beb1-44533e78bf00)
 
 
 <br/>
@@ -48,28 +49,9 @@
 <br/> 
 <br/>
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img  src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
-<br/>
-
-### Projetos:
-
-https://esli-nux.com 
-
-![](https://img.shields.io/badge/made%20w%2F-Blogger%20%26%20Cloudflare-orange)
-
-
-https://esli.blog.br 
-
-![](https://img.shields.io/badge/made%20w%2F-Ghost%2FDigitalOcean%2FCloudflare-blue)
-
-https://anchor.fm/esl1h 
-
-Podcast Sysadmin/SRE 
-
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=Esl1h.Esl1h)
+<br/><p><br>
 
 
 
@@ -80,11 +62,39 @@ Podcast Sysadmin/SRE
 
 <ul><li>
 
-[Bio](https://esli.blog.br/me/) </li>
+[Bio](https://esli.blog.br/me/) </li></ul>
+
+<ul><li>
+Projets:
+</li>
+
+<ul><li>https://esli-nux.com TechBlog
+
+![](https://img.shields.io/badge/made%20w%2F-Blogger%20%26%20Cloudflare-orange)</li></ul>
+
+
+<ul><li>https://esli.blog.br Personal Blog
+
+![](https://img.shields.io/badge/made%20w%2F-Ghost%2FDigitalOcean%2FCloudflare-blue)</li></ul>
+
+<ul><li>https://anchor.fm/esl1h Podcast Sysadmin/SRE
+
+![](https://img.shields.io/badge/made%20w%2F-Anchor-blueviolet)</li></ul>
+
+
+ </li></ul>
 
 
 
-![](https://embed.stackshare.io/stacks/embed/31b45317c72437a8368a68ce7a86f6)
+
 
 
 </details>
+<br>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Esl1h.Esl1h)
+
+<br>
+
+![](https://embed.stackshare.io/stacks/embed/31b45317c72437a8368a68ce7a86f6)
+
