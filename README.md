@@ -1,19 +1,19 @@
-###  Hi Everyone! I'm Esli Silva
+### Hi Everyone! I'm Esli Silva
 
-[![CloudAcademy](https://img.shields.io/badge/MyTech-Stack-green)](https://cloudacademy.com/profile/7160ca43-3248-48a5-beb1-44533e78bf00) [![CloudAcademy](https://img.shields.io/badge/Profile-CloudAcademy-blue)](https://cloudacademy.com/profile/7160ca43-3248-48a5-beb1-44533e78bf00)
+[![StackShare](https://img.shields.io/badge/MyTech-Stack-green)](https://stackshare.io/Esl1h/my-stack/main) [![CloudAcademy](https://img.shields.io/badge/Profile-CloudAcademy-blue)](https://cloudacademy.com/profile/7160ca43-3248-48a5-beb1-44533e78bf00)
 
 
 <br/>
 <a href="https://stackshare.io/Esl1h/my-stack">
   <img align="left" alt="Esli Silva | My Stack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackshare.svg" />
 </a>
-<a href="https://twitter.com/esli-nux">
+<a href="https://twitter.com/esli_nux">
   <img align="left" alt="Esli Silva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/eslih">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://stackoverflow.com/users/4122311/esli-silva">
+<a href="https://stackoverflow.com/users/story/4122311">
   <img align="left" alt="StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
 </a>
 <a href="https://youtube.com/channel/UC52vCjpqZkKrNL9VxZeuvcA">
@@ -65,7 +65,7 @@
 [Bio](https://esli.blog.br/me/) </li></ul>
 
 <ul><li>
-Projets:
+Projects:
 </li>
 
 <ul><li>https://esli-nux.com TechBlog
