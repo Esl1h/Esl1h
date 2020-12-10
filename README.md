@@ -1,7 +1,36 @@
-### Hi Everyone! I'm Esli Silva
+# Hi Everyone! 
+### I'm Esli Silva
 
 [![StackShare](https://img.shields.io/badge/MyTech-Stack-green)](https://stackshare.io/Esl1h/my-stack/main) [![CloudAcademy](https://img.shields.io/badge/Profile-CloudAcademy-blue)](https://cloudacademy.com/profile/7160ca43-3248-48a5-beb1-44533e78bf00)
+<br>
 
+<details>
+<summary>About me</summary>
+
+<ul><li>
+
+[Bio](https://esli.blog.br/me/) </li></ul>
+
+<ul><li>
+Projects:
+</li>
+
+<ul><li>https://esli-nux.com TechBlog
+
+![](https://img.shields.io/badge/made%20w%2F-Blogger%20%26%20Cloudflare-orange)</li></ul>
+
+
+<ul><li>https://esli.blog.br Personal Blog
+
+![](https://img.shields.io/badge/made%20w%2F-Ghost%2FDigitalOcean%2FCloudflare-blue)</li></ul>
+
+<ul><li>https://anchor.fm/esl1h Podcast Sysadmin/SRE
+
+![](https://img.shields.io/badge/made%20w%2F-Anchor-blueviolet)</li></ul>
+
+ </li></ul>
+
+</details>
 
 <br/>
 <a href="https://stackshare.io/Esl1h/my-stack">
@@ -51,46 +80,14 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
-<br/><p><br>
-
-
-
-
-
-<details>
-<summary>About me</summary>
-
-<ul><li>
-
-[Bio](https://esli.blog.br/me/) </li></ul>
-
-<ul><li>
-Projects:
-</li>
-
-<ul><li>https://esli-nux.com TechBlog
-
-![](https://img.shields.io/badge/made%20w%2F-Blogger%20%26%20Cloudflare-orange)</li></ul>
-
-
-<ul><li>https://esli.blog.br Personal Blog
-
-![](https://img.shields.io/badge/made%20w%2F-Ghost%2FDigitalOcean%2FCloudflare-blue)</li></ul>
-
-<ul><li>https://anchor.fm/esl1h Podcast Sysadmin/SRE
-
-![](https://img.shields.io/badge/made%20w%2F-Anchor-blueviolet)</li></ul>
-
-
- </li></ul>
+<br/>
 
 
 
 
 
 
-</details>
-<br>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Esl1h.Esl1h)
 
