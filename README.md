@@ -1,8 +1,9 @@
-# Hi Everyone! 
-### I'm Esli Silva
+# Hi Everyone!
+
+## I'm Esli Silva
 
 [![StackShare](https://img.shields.io/badge/MyTech-Stack-green)](https://stackshare.io/Esl1h/my-stack/main) [![CloudAcademy](https://img.shields.io/badge/Profile-CloudAcademy-blue)](https://cloudacademy.com/profile/7160ca43-3248-48a5-beb1-44533e78bf00)
-<br>
+
 
 <details>
 <summary>About me</summary>
@@ -17,16 +18,17 @@ Projects:
 
 <ul><li>https://esli-nux.com TechBlog
 
-![](https://img.shields.io/badge/made%20w%2F-Blogger%20%26%20Cloudflare-orange)</li></ul>
+![cloudflare](https://img.shields.io/badge/made%20w%2F-Blogger%20%26%20Cloudflare-orange)</li></ul>
 
 
-<ul><li>https://esli.blog.br Personal Blog
+<ul>
+<li>https://esli.blog.br Personal Blog
 
-![](https://img.shields.io/badge/made%20w%2F-Ghost%2FDigitalOcean%2FCloudflare-blue)</li></ul>
+![DigitalOcean](https://img.shields.io/badge/made%20w%2F-Ghost%2FDigitalOcean%2FCloudflare-blue)</li></ul>
 
 <ul><li>https://anchor.fm/esl1h Podcast Sysadmin/SRE
 
-![](https://img.shields.io/badge/made%20w%2F-Anchor-blueviolet)</li></ul>
+![Podcast](https://img.shields.io/badge/made%20w%2F-Anchor-blueviolet)</li></ul>
 
  </li></ul>
 
@@ -83,15 +85,12 @@ Projects:
 <br/>
 
 
-
-
-
-
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=Esl1h.Esl1h)
+[![Esl1h](https://github-readme-stats.vercel.app/api/top-langs/?username=Esl1h&layout=compact&theme=dark)](https://github.com/Esl1h/)
 
 <br>
 
-![](https://embed.stackshare.io/stacks/embed/31b45317c72437a8368a68ce7a86f6)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Esl1h.Esl1h)
 
+<br>
+
+![stackshare](https://embed.stackshare.io/stacks/embed/31b45317c72437a8368a68ce7a86f6)
