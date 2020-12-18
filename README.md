@@ -93,4 +93,4 @@ Projects:
 
 <br>
 
-![stackshare](https://embed.stackshare.io/stacks/embed/31b45317c72437a8368a68ce7a86f6)
+![](https://embed.stackshare.io/stacks/embed/31b45317c72437a8368a68ce7a86f6)
