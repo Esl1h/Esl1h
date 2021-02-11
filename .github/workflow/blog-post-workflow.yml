@@ -15,4 +15,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://rss.app/feeds/BSCI1jI1vp95q5BJ.xml"
+          feed_list: "https://esli-nux.com/rss.xml"
