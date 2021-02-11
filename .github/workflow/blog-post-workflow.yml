@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: Esl1h/blog-post-workflow@workflow
         with:
           # comma-separated list of RSS feed urls
           feed_list: "http://feeds.feedburner.com/Esli-nuxcomLinuxGamesDicasSoftwaresEMuitoMais.xml"
