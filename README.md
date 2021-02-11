@@ -80,24 +80,32 @@ Projects:
 <br/> 
 <br/>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-
-<br/>
+### &#x1f4c8; My GitHub Stats
 
 
-[![Esl1h](https://github-readme-stats.vercel.app/api/top-langs/?username=Esl1h&layout=compact&theme=dark)](https://github.com/Esl1h/)
+<a href="https://github.com/Esl1h/Esl1h">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+</a>
+
+
+<a href="https://github.com/Esl1h/Esl1h">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esl1h&layout=compact&theme=dark">
+</a>
 
 <br>
+
+
+
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+
+<!-- BLOG-POST-LIST:END -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Esl1h.Esl1h)
 
 <br>
 
 ![](https://embed.stackshare.io/stacks/embed/31b45317c72437a8368a68ce7a86f6)
-
-
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
