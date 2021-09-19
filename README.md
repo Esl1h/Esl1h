@@ -19,10 +19,11 @@
 [![CloudAcademy](https://img.shields.io/badge/My-CloudAcademy-blue?style=for-the-badge)](https://cloudacademy.com/profile/7160ca43-3248-48a5-beb1-44533e78bf00)
 
 </p>
-
-
-
 <br/>
+
+
+<h3 align="left">Profiles and contacts:</h3>
+
 <p align="center">
 <a href="https://stackshare.io/Esl1h/my-stack">
   <img align="left" alt="Esli Silva | My Stack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackshare.svg" />
