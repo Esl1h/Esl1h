@@ -19,7 +19,7 @@
 [![CloudAcademy](https://img.shields.io/badge/My-CloudAcademy-blue?style=for-the-badge)](https://cloudacademy.com/profile/7160ca43-3248-48a5-beb1-44533e78bf00)
 
 
-<a href="https://stackexchange.com/users/4974728/esli-silva" target=”_blank”><img src="https://stackexchange.com/users/flair/4974728.png" width="208" height="58" alt="profile for Esli Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Esli Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackoverflow.com/users/4122311/esli-silva" target=”_blank”><img src="https://stackexchange.com/users/flair/4974728.png" width="208" height="58" alt="profile for Esli Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Esli Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 </p>
 <br/>
@@ -28,7 +28,7 @@
 <h3 align="left">Profiles and contacts:</h3>
 
 <p align="center">
-<a href="https://stackshare.io/Esl1h/my-stack" target="_blank">
+<a href="https://stackshare.io/Esl1h" target="_blank">
   <img align="left" alt="Esli Silva | My Stack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackshare.svg" />
 </a> 
 <a href="https://twitter.com/esli_nux" target="_blank">
@@ -46,18 +46,6 @@
 <a href="https://medium.com/@esl1h" target="_blank">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
 </a> 
-<a href="https://t.me/Esl1h" target="_blank">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a> 
-<a href="https://www.instagram.com/eslihs90" target="_blank">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> 
-<a href="https://www.reddit.com/user/Esl1h" target="_blank">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a> 
-<a href="https://flowcrypt.com/me/esli" target="_blank">
-  <img align="left" alt="Mail Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a> 
 <a href="https://steamcommunity.com/id/esl1h" target="_blank">
   <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
 </a> 
@@ -67,9 +55,6 @@
 <a href="https://esli.blog.br/" target="_blank">
   <img align="left" alt="Blog Pessoal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hashnode.svg" />
 </a> 
-<a href="https://esli-nux.com" target="_blank">
-  <img align="left" alt="Site Esli-nux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/blogger.svg" />
-</a>
 </p>
 <br/> 
 <br/>
