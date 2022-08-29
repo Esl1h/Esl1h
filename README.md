@@ -6,7 +6,7 @@
 
 [My Bio [ptbr]](https://esli.blog.br/me/)
 
-[![StackShare](https://img.shields.io/badge/MyTech-StackShare-green?style=for-the-badge&logo=stackshare)](https://stackshare.io/Esl1h/my-stack/main)
+[![StackShare](https://img.shields.io/badge/MyTech-StackShare-green?style=for-the-badge&logo=stackshare)](https://stackshare.io/Esl1h)
 
 [![Personal Blog](https://img.shields.io/badge/My%20Blog-esli.blog.br-blue?style=for-the-badge&logo=hashnode)](https://esli.blog.br)
 
@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/eslih" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
-<a href="https://stackoverflow.com/users/story/4122311" target="_blank">
+<a href="https://stackoverflow.com/users/4122311/esli-silva" target="_blank">
   <img align="left" alt="StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
 </a> 
 <a href="https://youtube.com/channel/UC52vCjpqZkKrNL9VxZeuvcA" target="_blank">
