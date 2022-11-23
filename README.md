@@ -40,7 +40,7 @@
 <a href="https://stackoverflow.com/users/4122311/esli-silva" target="_blank">
   <img align="left" alt="StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
 </a> 
-<a href="https://youtube.com/channel/UC52vCjpqZkKrNL9VxZeuvcA" target="_blank">
+<a href="https://youtube.com/@eslih" target="_blank">
   <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
 </a> 
 <a href="https://medium.com/@esl1h" target="_blank">
