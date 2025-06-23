@@ -27,7 +27,7 @@
 - [My Resume [ptbr]](https://esli.blog.br/me/)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esl1h" alt="esl1h" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esl1h&theme=onedark" alt="esl1h" /></a> </p>
 
 
 <p align="left">
