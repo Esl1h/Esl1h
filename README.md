@@ -4,14 +4,34 @@
 </a> 
   
 </p>
-<h3 align="center">A ["sysadmin", "sre", "devops"] passionate Linux guy from Brazil.</h3>
+<h3 align="center">A ["sysadmin", "sre", "devops"] passionate Linux enthusiast from Brazil.</h3>
+
+- 🔭 I’m currently working on **financial systems and FinTechs in Brazil**
+
+- 🧑‍💼 Formerly Zenvia, PagSeguro, Serasa Experian, Nubank...
+
+- 🌱 I’m currently learning **AI, LLM and some languages (V, Rust, ...)**
+
+- 👯 I’m looking to collaborate on **FOSS projects**
+
+- 📝 I regularly write articles on [esli.blog.br](esli.blog.br)
+
+- 💬 Ask me about **Linux, Network, Privacy**
+
+- 📫 How to reach me **not.announced@simplelogin.fr**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/eslih/?locale=en_US](https://www.linkedin.com/in/eslih/?locale=en_US)
+
+- ⚡ Trivia facts: **Bass player, KravMaga, Brazilian-born with EU-Portuguese citizenship**
+
+- [My Resume [ptbr]](https://esli.blog.br/me/)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esl1h" alt="esl1h" /></a> </p>
 
 
 <p align="left">
   
-[My Resume [ptbr]](https://esli.blog.br/me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
