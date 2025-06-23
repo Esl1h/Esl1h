@@ -16,8 +16,8 @@
 <a href="https://stackshare.io/Esl1h" target="_blank">
   <img align="left" alt="Esli Silva | My Stack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackshare.svg" />
 </a> 
-<a href="https://twitter.com/esli_nux" target="_blank">
-  <img align="left" alt="Esli Silva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://x.com/esl1h" target="_blank">
+  <img align="left" alt="Esli Silva | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
 <a href="https://www.linkedin.com/in/eslih" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -41,6 +41,8 @@
   <img align="left" alt="Blog Pessoal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hashnode.svg" />
 </a> 
 </p>
+<br/> 
+<br/>
 
 [![StackShare](https://img.shields.io/badge/MyTech-StackShare-green?style=for-the-badge&logo=stackshare)](https://stackshare.io/Esl1h)
 
