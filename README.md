@@ -1,19 +1,19 @@
-![Header](./github-header-image.png)
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Esli Silva</h1>
-<h3 align="center">A [Sysadmin, DevOps, SRE] passionate Linux guy from Brazil.</h3>
+<p align="center"> 
+<a href="https://esli.blog.br/me/" target="_blank">
+  <img align="center" alt="Esli Silva | My Bio" src="./github-header-image.png" />
+</a> 
+  
+</p>
+<h3 align="center">A ["sysadmin", "sre", "devops"] passionate Linux guy from Brazil.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esl1h" alt="esl1h" /></a> </p>
 
-<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
 <p align="left">
-
-[My Bio [ptbr]](https://esli.blog.br/me/)
-
+  
+[My Resume [ptbr]](https://esli.blog.br/me/)
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="center">
 <a href="https://stackshare.io/Esl1h" target="_blank">
   <img align="left" alt="Esli Silva | My Stack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackshare.svg" />
@@ -46,16 +46,10 @@
 <br/> 
 <br/>
 
-[![StackShare](https://img.shields.io/badge/MyTech-StackShare-green?style=for-the-badge&logo=stackshare)](https://stackshare.io/Esl1h)
-
+[![StackShare](https://img.shields.io/badge/MyTech-StackShare-green?style=for-the-badge&logo=stackshare)](https://stackshare.io/Esl1h) 
 [![Personal Blog](https://img.shields.io/badge/My%20Blog-esli.blog.br-blue?style=for-the-badge&logo=hashnode)](https://esli.blog.br)
-
 [![StackOverFlow](https://img.shields.io/badge/Profile-StackOverFlow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/4122311/esli-silva?tab=profile)
-
-
 [![Podcast](https://img.shields.io/badge/Podcast-Sysadmin/SRE-blueviolet?style=for-the-badge&logo=anchor)](https://anchor.fm/esl1h)
-
-
 [![CloudAcademy](https://img.shields.io/badge/My-CloudAcademy-blue?style=for-the-badge)](https://cloudacademy.com/profile/7160ca43-3248-48a5-beb1-44533e78bf00)
 
 
