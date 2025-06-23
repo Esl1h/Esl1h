@@ -69,13 +69,13 @@
 </a> 
 
 <a href="https://github.com/Esl1h/Esl1h">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esl1h&show_icons=true&locale=en&layout=compact" alt="esl1h" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esl1h&show_icons=true&locale=en&layout=compact&theme=dark" alt="esl1h" /></p>
 </a></p>
 
 <br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esl1h&show_icons=true&locale=en" alt="esl1h" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esl1h&show_icons=true&locale=en&theme=dark" alt="esl1h" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esl1h&" alt="esl1h" /></p>
 
