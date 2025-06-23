@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Esli Silva</h1>
 <h3 align="center">A [Sysadmin, DevOps, SRE] passionate Linux guy from Brazil.</h3>
 
