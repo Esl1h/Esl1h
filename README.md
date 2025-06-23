@@ -69,11 +69,14 @@
 </a> 
 
 <a href="https://github.com/Esl1h/Esl1h">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esl1h&show_icons=true&locale=en&layout=compact&theme=dark" alt="esl1h" /></p>
-</a></p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esl1h&show_icons=true&locale=en&layout=compact&theme=dark" alt="esl1h" />
+</a>
+
+</p>
 
 <br>
-<br/> 
+<br/>
+<br>
 <br/>
 
 ### Blogs posts
