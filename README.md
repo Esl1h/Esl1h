@@ -1,4 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Esli Silva</h1>
+<h3 align="center">A [Sysadmin, DevOps, SRE] passionate Linux guy from Brazil.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esl1h" alt="esl1h" /></a> </p>
 
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
@@ -64,8 +67,20 @@
 <p align="left"><a href="https://github.com/Esl1h/Esl1h">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </a> 
+
 <a href="https://github.com/Esl1h/Esl1h">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esl1h&layout=compact&theme=dark">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esl1h&show_icons=true&locale=en&layout=compact" alt="esl1h" /></p>
 </a></p>
 
 <br>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esl1h&show_icons=true&locale=en" alt="esl1h" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esl1h&" alt="esl1h" /></p>
+
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
