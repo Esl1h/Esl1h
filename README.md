@@ -73,7 +73,8 @@
 </a></p>
 
 <br>
-
+<br/> 
+<br/>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
