@@ -101,6 +101,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Esli Silva for Ubuntu service stops randomly with &quot;Main Process exited, status 143/n/a&quot;](https://stackoverflow.com/questions/57156111/ubuntu-service-stops-randomly-with-main-process-exited-status-143-n-a/62266881#62266881)
+- [Tipos de VPNs: PPTP x OpenVPN x L2TP/IPsec x SSTP x IKEv2 x Chameleon x WireGuard](https://esl1h.medium.com/tipos-de-vpns-pptp-x-openvpn-x-l2tp-ipsec-x-sstp-x-ikev2-x-chameleon-x-wireguard-26f37b7e97e?source=rss-de50b99477b4------2)
+- [ChromeOS — Chromebook para TI: Melhores Apps Online e Offline](https://esl1h.medium.com/chromeos-chromebook-para-ti-melhores-apps-online-e-offline-ceb4f829fbde?source=rss-de50b99477b4------2)
+- [Answer by Esli Silva for URL Regex not validating as expected](https://stackoverflow.com/questions/60121958/url-regex-not-validating-as-expected/60122071#60122071)
+- [Distribuições Linux para 2020](https://esl1h.medium.com/distribui%C3%A7%C3%B5es-linux-para-2020-e035c5405987?source=rss-de50b99477b4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- HASHNODE:START -->
