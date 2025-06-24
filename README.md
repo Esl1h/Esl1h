@@ -106,7 +106,7 @@
 <!-- HASHNODE:START -->
 <!-- HASHNODE:END -->
 
-## 📚 Artigos do Blog Pessoal
+### 📚 Some articles
 
 | SRE | Artigos em Inglês | Inteligência Artificial |
 |-----|-------------------|------------------------|
