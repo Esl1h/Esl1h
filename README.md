@@ -116,3 +116,4 @@
 | [Melhores práticas para SRE](https://esli.blog.br/melhores-praticas-para-sre) |   |   |
 | [Docs as Code: Documentação como Código](https://esli.blog.br/docs-as-code-documentacao-como-codigo) |   |   |
 | [DocOps](https://esli.blog.br/docops) |   |   |
+| [SRE Product Manager](https://esli.blog.br/sre-product-manager) |   |   |
