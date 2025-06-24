@@ -109,8 +109,8 @@
 - [Certificados e OpenSSL](https://esl1h.medium.com/certificados-e-openssl-4b0c534f9a34?source=rss-de50b99477b4------2)
 - [Answer by Esli Silva for Error jemalloc/jemalloc.h: No such file or directory when making Redis](https://stackoverflow.com/questions/47088171/error-jemalloc-jemalloc-h-no-such-file-or-directory-when-making-redis/58733919#58733919)
 - [Programando no Chromebook: Melhores IDEs para o ChromeOS](https://esl1h.medium.com/programando-no-chromebook-melhores-ides-para-o-chromeos-95a637fc7962?source=rss-de50b99477b4------2)
-- [Curso — Fundamentos para Administração de Sistemas GNU/Linux](https://esl1h.medium.com/curso-fundamentos-para-administra%C3%A7%C3%A3o-de-sistemas-gnu-linux-fff2f0636b42?source=rss-de50b99477b4------2)
 - [Answer by Esli Silva for Curl command issue in bash script because of string variable containing quotes](https://stackoverflow.com/questions/55267466/curl-command-issue-in-bash-script-because-of-string-variable-containing-quotes/55267677#55267677)
+- [SSD no linux](https://esl1h.medium.com/ssd-no-linux-c860dd83fd5f?source=rss-de50b99477b4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- HASHNODE:START -->
