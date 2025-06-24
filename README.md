@@ -106,3 +106,13 @@
 <!-- HASHNODE:START -->
 <!-- HASHNODE:END -->
 
+## 📚 Artigos do Blog Pessoal
+
+| SRE | Artigos em Inglês | Inteligência Artificial |
+|-----|-------------------|------------------------|
+| [Simplicidade no SRE](https://esli.blog.br/simplicidade-no-sre) | [RTFM: Read The F\*cking Manual](https://esli.blog.br/rtfm-read-the-fcking-manual) | [Inteligência Artificial - Parte 1: Evolução, principais empresas e seu futuro](https://esli.blog.br/inteligencia-artificial-parte-1-evolucao-principais-empresas-e-seu-futuro) |
+| [As documentações do SRE](https://esli.blog.br/as-documentacoes-do-sre) | [Unlocking the Power of AI, LLMs and Prompts for SREs, Sysadmins and DevOps](https://esli.blog.br/unlocking-the-power-of-ai-llms-and-prompts-for-sres-sysadmins-and-devops) | [Inteligência Artificial - Parte 2: Entenda AI generativa, redes neurais, LLMs e tokens](https://esli.blog.br/inteligencia-artificial-parte-2-entenda-ai-generativa-redes-neurais-llms-e-tokens) |
+| [As monitorações do SRE](https://esli.blog.br/as-monitoracoes-do-sre) |   | [Desbloqueando o poder da AI, LLM e Prompts para SREs, Sysadmins e DevOps](https://esli.blog.br/desbloqueando-o-poder-da-ai-llm-e-prompts-para-sres-sysadmins-e-devops) |
+| [Melhores práticas para SRE](https://esli.blog.br/melhores-praticas-para-sre) |   |   |
+| [Docs as Code: Documentação como Código](https://esli.blog.br/docs-as-code-documentacao-como-codigo) |   |   |
+| [DocOps](https://esli.blog.br/docops) |   |   |
