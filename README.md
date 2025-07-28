@@ -101,14 +101,16 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Esli Silva for Ubuntu service stops randomly with &quot;Main Process exited, status 143/n/a&quot;](https://stackoverflow.com/questions/57156111/ubuntu-service-stops-randomly-with-main-process-exited-status-143-n-a/62266881#62266881)
 - [Tipos de VPNs: PPTP x OpenVPN x L2TP/IPsec x SSTP x IKEv2 x Chameleon x WireGuard](https://esl1h.medium.com/tipos-de-vpns-pptp-x-openvpn-x-l2tp-ipsec-x-sstp-x-ikev2-x-chameleon-x-wireguard-26f37b7e97e?source=rss-de50b99477b4------2)
 - [ChromeOS — Chromebook para TI: Melhores Apps Online e Offline](https://esl1h.medium.com/chromeos-chromebook-para-ti-melhores-apps-online-e-offline-ceb4f829fbde?source=rss-de50b99477b4------2)
+- [Answer by Esli Silva for URL Regex not validating as expected](https://stackoverflow.com/questions/60121958/url-regex-not-validating-as-expected/60122071#60122071)
 - [Distribuições Linux para 2020](https://esl1h.medium.com/distribui%C3%A7%C3%B5es-linux-para-2020-e035c5405987?source=rss-de50b99477b4------2)
 - [Certificados e OpenSSL](https://esl1h.medium.com/certificados-e-openssl-4b0c534f9a34?source=rss-de50b99477b4------2)
+- [Answer by Esli Silva for Error jemalloc/jemalloc.h: No such file or directory when making Redis](https://stackoverflow.com/questions/47088171/error-jemalloc-jemalloc-h-no-such-file-or-directory-when-making-redis/58733919#58733919)
 - [Programando no Chromebook: Melhores IDEs para o ChromeOS](https://esl1h.medium.com/programando-no-chromebook-melhores-ides-para-o-chromeos-95a637fc7962?source=rss-de50b99477b4------2)
+- [Answer by Esli Silva for Curl command issue in bash script because of string variable containing quotes](https://stackoverflow.com/questions/55267466/curl-command-issue-in-bash-script-because-of-string-variable-containing-quotes/55267677#55267677)
 - [SSD no linux](https://esl1h.medium.com/ssd-no-linux-c860dd83fd5f?source=rss-de50b99477b4------2)
-- [Teste de Performance de Rede com Iperf](https://esl1h.medium.com/teste-de-performance-de-rede-com-iperf-2ece565edfff?source=rss-de50b99477b4------2)
-- [DHCP — Guia Completo](https://esl1h.medium.com/dhcp-guia-completo-54eb743e948e?source=rss-de50b99477b4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- HASHNODE:START -->
