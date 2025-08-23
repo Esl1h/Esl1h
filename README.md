@@ -10,8 +10,9 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<!-- <a href="mailto:   " title="Email Address"><code>  </code></a> │ --> <a href="https://keybase.io/esl1h/pgp_keys.asc?fingerprint=aeb30f179f402d37522586e584cb48faad1264d2" title="PGP Public Key"><code>84CB 48FA AD12 64D2</code></a> │ <a href="https://matrix.to/#/@esli:matrix.org" title="Matrix User ID"><code>@esli:matrix.org</code></a>
+<!-- <a href="mailto:   " title="Email Address"><code>  </code></a> │ --><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/6DDA9E4841D4B1F1E43A64775EF74834A3C9651A" title="PGP Public Key"><code>5EF7 4834 A3C9 651A</code></a> | <a href="https://keybase.io/esl1h/pgp_keys.asc?fingerprint=aeb30f179f402d37522586e584cb48faad1264d2" title="keybase"><code>(at)keybase.io</code></a> │ <a href="https://matrix.to/#/@esli:matrix.org" title="Matrix User ID"><code>@esli:matrix.org</code></a>
 </p>
+
 
 <!-- Socials -->
 <p align="center">
@@ -115,6 +116,35 @@
 
 
 
+</p>
+    
+----
+  </p>
+</details>
+
+<details>
+  <summary><b>PGP</b></summary>
+    <p>
+      <blockcode>
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: ID do usuário:	Esli <esli@murena.io>
+Comment: Válido a partir de:	7/18/25 12:46 PM
+Comment: Tipo:	EdDSA de 255 bits (chave privada disponível)
+Comment: Uso:	Assinatura, Criptografia, Certificando IDs de usuário
+Comment: Impressão digital:	6DDA 9E48 41D4 B1F1 E43A  6477 5EF7 4834 A3C9 651A
+
+mDMEaHpsWRYJKwYBBAHaRw8BAQdAHfBFDttJjXjg+3yBzzxR1X25+MrNxX9tU4Uo
+kL892ZO0FUVzbGkgPGVzbGlAbXVyZW5hLmlvPoiTBBMWCgA7AhsDBQsJCAcCAiIC
+BhUKCQgLAgQWAgMBAh4HAheAFiEEbdqeSEHUsfHkOmR3XvdINKPJZRoFAmh6bHAA
+CgkQXvdINKPJZRroKAEA7C/vUVrCI/VeL+PmUav/9qVH8NA15MO2psfzdKH1uREB
+ALfB2hODWh5NMTyTnJho08+L0T87GFcSIwaiUSa0HOoOuDgEaHpsWRIKKwYBBAGX
+VQEFAQEHQJgJ3s82fxpi9h+EkOMtl1TF8z8kNLueCyPFaqg/h5lhAwEIB4h4BBgW
+CgAgAhsMFiEEbdqeSEHUsfHkOmR3XvdINKPJZRoFAmh6bHQACgkQXvdINKPJZRr/
+ywEAklF2ZzvZsz1PmZ/5PBfWO/dfebdzeZ4VETb2CxRUCyAA/2ZhCuNxsMUYw1lb
+7oBIT5MkLcRfvIerhCjkeIooORkB
+=p+6h
+-----END PGP PUBLIC KEY BLOCK-----
+</blockcode>
 </p>
     
 ----
