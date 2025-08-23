@@ -1,10 +1,28 @@
+<!-- Title -->
+<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Esli</h1>
+
 <p align="center"> 
 <a href="https://esli.blog.br/me/" target="_blank">
   <img align="center" alt="Esli Silva | My Bio" src="./github-header-image.png" />
 </a> 
   
 </p>
-<h3 align="center">A ["sysadmin", "sre", "devops"] passionate Linux enthusiast from Brazil.</h3>
+<h3 align="center">A ["sysadmin", "sre", "devops"] passionate Linux enthusiast</h3>
+
+
+  
+<!-- Outer collapsible -->  
+<details>
+   <summary><b>↕️ Expand for more!</b></summary>
+  
+   <br>
+   
+<!-- About Section -->
+<details>
+  <summary><b>👤 About</b></summary>
+    <p>
+      
+      
 
 - 🔭 I’m currently working on **financial systems and FinTechs in Brazil**
 
@@ -26,11 +44,43 @@
 
 - [My Resume [ptbr]](https://esli.blog.br/me/)
 
+    
+----
+  
+  </p>
+</details>
+
+<br>
+
+
+<!-- About Section -->
+<details>
+  <summary><b>👤 github-profile-trophy</b></summary>
+    <p>
+      
+      
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esl1h&theme=onedark&rank=-?" alt="esl1h" /></a> </p>
 
 
 <p align="left">
+<blockquote>
+
+</blockquote>
+    
+----
+  
+  </p>
+</details>
+
+
+
+
+
+
+</details>
+
+
   
 
 <h3 align="left">Connect with me:</h3>
