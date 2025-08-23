@@ -32,15 +32,13 @@
 
 <p align="center">
 
-</p>
 <br/> 
 <br/>
 
-[![StackShare](https://img.shields.io/badge/MyTech-StackShare-green?style=for-the-badge&logo=stackshare)](https://stackshare.io/Esl1h) 
-[![Personal Blog](https://img.shields.io/badge/My%20Blog-esli.blog.br-blue?style=for-the-badge&logo=hashnode)](https://esli.blog.br)
+[![Stack](https://img.shields.io/badge/MyTech-StackShare-green?style=for-the-badge&logo=stackshare)](https://stackshare.io/Esl1h) 
+[![Blog](https://img.shields.io/badge/My%20Blog-esli.blog.br-blue?style=for-the-badge&logo=hashnode)](https://esli.blog.br)
 [![StackOverFlow](https://img.shields.io/badge/Profile-StackOverFlow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/4122311/esli-silva?tab=profile)
 [![Podcast](https://img.shields.io/badge/Podcast-Sysadmin/SRE-blueviolet?style=for-the-badge&logo=anchor)](https://anchor.fm/esl1h)
-[![CloudAcademy](https://img.shields.io/badge/My-CloudAcademy-blue?style=for-the-badge)](https://cloudacademy.com/profile/7160ca43-3248-48a5-beb1-44533e78bf00)
 
 
 <a href="https://stackoverflow.com/users/4122311/esli-silva" target=”_blank”><img src="https://stackexchange.com/users/flair/4974728.png" width="208" height="58" alt="profile for Esli Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Esli Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
