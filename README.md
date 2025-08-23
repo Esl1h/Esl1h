@@ -2,60 +2,12 @@
 <h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Esli</h1>
 
 <p align="center"> 
-<a href="https://esli.blog.br/me/" target="_blank">
+<a href="https://esli.blog.br" target="_blank">
   <img align="center" alt="Esli Silva | My Bio" src="./github-header-image.png" />
 </a> 
   
 </p>
-<h3 align="center">A ["sysadmin", "sre", "devops"] passionate Linux enthusiast</h3>
 
-
-  
-<!-- Outer collapsible -->  
-<details>
-   <summary><b>↕️ Expand for more!</b></summary>
-  
-   <br>
-   
-<!-- About Section -->
-<details>
-  <summary><b>👤 About</b></summary>
-    <p>
-      
-      
-
-- 🔭 I’m currently working on **financial systems and FinTechs in Brazil**
-
-- 🧑‍💼 Formerly Zenvia, PagSeguro, Serasa Experian, Nubank...
-
-- 🌱 I’m currently learning **AI, LLM and some languages (V, Rust, ...)**
-
-- 👯 I’m looking to collaborate on **FOSS projects**
-
-- 📝 I regularly write articles on [esli.blog.br](esli.blog.br)
-
-- 💬 Ask me about **Linux, Network, Privacy**
-
-- 📫 How to reach me **not.announced@simplelogin.fr**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/eslih/?locale=en_US](https://www.linkedin.com/in/eslih/?locale=en_US)
-
-- ⚡ Trivia facts: **Bass player, KravMaga, Brazilian-born with EU-Portuguese citizenship**
-
-- [My Resume [ptbr]](https://esli.blog.br/me/)
-
-    
-----
-  
-  </p>
-</details>
-
-<br>
-
-<!-- contact Section -->
-<details>
-  <summary><b>👤 contact</b></summary>
-    <p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -102,15 +54,43 @@
 
 </p>
 <br/>
+  
+<!-- Outer collapsible -->  
+<details>
+   <summary><b>↕️ Expand for more!</b></summary>
+  
+   <br>
+   
+<!-- About Section -->
+<details>
+  <summary><b>👤 About</b></summary>
+    <p>
+      
+- 🔭 I’m currently working on **financial systems and FinTechs in Brazil**
 
+- 🧑‍💼 Formerly Zenvia, PagSeguro, Serasa Experian, Nubank...
 
-<br/> 
-<br/>
+- 🌱 I’m currently learning **AI, LLM and some languages (V, Rust, ...)**
+
+- 👯 I’m looking to collaborate on **FOSS projects**
+
+- 📝 I regularly write articles on [esli.blog.br](esli.blog.br)
+
+- 💬 Ask me about **Linux, Network, Privacy**
+
+- 📫 How to reach me **not.announced@simplelogin.fr**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/eslih/?locale=en_US](https://www.linkedin.com/in/eslih/?locale=en_US)
+
+- ⚡ Trivia facts: **Bass player, KravMaga, Brazilian-born with EU-Portuguese citizenship**
+
+- [My Resume [ptbr]](https://esli.blog.br/me/)
+
     
 ----
+  
   </p>
 </details>
-
 
 
 <!-- About github-profile-trophy -->
