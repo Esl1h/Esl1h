@@ -8,37 +8,30 @@
   
 </p>
 
-
-
-<h3 align="left">Connect with me:</h3>
+<!-- Contact and keys -->
 <p align="center">
-<a href="https://stackshare.io/Esl1h" target="_blank">
-  <img align="left" alt="Esli Silva | My Stack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackshare.svg" />
-</a> 
-<a href="https://x.com/esl1h" target="_blank">
-  <img align="left" alt="Esli Silva | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> 
-<a href="https://www.linkedin.com/in/eslih" target="_blank">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> 
-<a href="https://stackoverflow.com/users/4122311/esli-silva" target="_blank">
-  <img align="left" alt="StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
-</a> 
-<a href="https://youtube.com/@eslih" target="_blank">
-  <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
-</a> 
-<a href="https://medium.com/@esl1h" target="_blank">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
-</a> 
-<a href="https://steamcommunity.com/id/esl1h" target="_blank">
-  <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
-</a> 
-<a href="https://anchor.fm/esl1h" target="_blank">
-  <img align="left" alt="Podcast" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/anchor.svg" />
-</a> 
-<a href="https://esli.blog.br/" target="_blank">
-  <img align="left" alt="Blog Pessoal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hashnode.svg" />
-</a> 
+<!-- <a href="mailto:   " title="Email Address"><code>  </code></a> │ --> <a href="[https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7](https://keybase.io/esl1h/pgp_keys.asc?fingerprint=aeb30f179f402d37522586e584cb48faad1264d2)" title="PGP Public Key"><code>84CB 48FA AD12 64D2</code></a> │ <a href="https://matrix.to/#/@esli:matrix.org" title="Matrix User ID"><code>@esli:matrix.org</code></a>
+</p>
+
+<!-- Socials -->
+<p align="center">
+   <kbd>
+<a href="https://stackshare.io/Esl1h" target="_blank"><img align="left" alt="Esli Silva | My Stack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackshare.svg" /></a> 
+<a href="https://x.com/esl1h" target="_blank"><img align="left" alt="Esli Silva | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> 
+<a href="https://www.linkedin.com/in/eslih" target="_blank"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
+<a href="https://stackoverflow.com/users/4122311/esli-silva" target="_blank"><img align="left" alt="StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" /></a> 
+<a href="https://youtube.com/@eslih" target="_blank"><img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" /></a> 
+<a href="https://medium.com/@esl1h" target="_blank"><img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" /></a> 
+<a href="https://steamcommunity.com/id/esl1h" target="_blank"><img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" /></a> 
+<a href="https://anchor.fm/esl1h" target="_blank"><img align="left" alt="Podcast" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/anchor.svg" /></a> 
+<a href="https://esli.blog.br/" target="_blank"><img align="left" alt="Blog Pessoal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hashnode.svg" /></a> 
+  </kbd>
+</p>
+
+
+
+<p align="center">
+
 </p>
 <br/> 
 <br/>
