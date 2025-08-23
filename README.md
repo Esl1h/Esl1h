@@ -139,16 +139,13 @@
 
 <!-- HASHNODE:END -->
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esl1h&theme=onedark&rank=-?" alt="esl1h" />
 </a> 
   [![trophy](https://github-profile-trophy.vercel.app/?username=esl1h)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
 
-  <a href="https://github.com/Esl1h/Esl1h"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-</a> 
-
-  <a href="https://github.com/Esl1h/Esl1h"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esl1h&show_icons=true&locale=en&layout=compact&theme=dark" alt="esl1h" />
-</a>
+  <a href="https://github.com/Esl1h/Esl1h"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a> 
+  <a href="https://github.com/Esl1h/Esl1h"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esl1h&show_icons=true&locale=en&layout=compact&theme=dark" alt="esl1h" /></a>
 
 </p>
