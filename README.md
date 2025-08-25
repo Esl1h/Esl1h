@@ -82,6 +82,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esl1h&theme=onedark&rank=-?" alt="esl1h" /></a> </p>
 
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esl1h&theme=onedark&rank=-?" alt="esl1h" />
+</a> 
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=esl1h)](https://github.com/ryo-ma/github-profile-trophy)
+
+</br>
+
     
 ----
   </p>
@@ -125,7 +134,8 @@
 <details>
   <summary><b>PGP</b></summary>
     <p>
-      <blockcode>
+      
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: ID do usuário:	Esli <esli@murena.io>
 Comment: Válido a partir de:	7/18/25 12:46 PM
@@ -144,7 +154,8 @@ ywEAklF2ZzvZsz1PmZ/5PBfWO/dfebdzeZ4VETb2CxRUCyAA/2ZhCuNxsMUYw1lb
 7oBIT5MkLcRfvIerhCjkeIooORkB
 =p+6h
 -----END PGP PUBLIC KEY BLOCK-----
-</blockcode>
+```
+
 </p>
     
 ----
@@ -157,19 +168,10 @@ ywEAklF2ZzvZsz1PmZ/5PBfWO/dfebdzeZ4VETb2CxRUCyAA/2ZhCuNxsMUYw1lb
 
 <br>
 <br/>
-<br>
-<br/>
-
 
 <!-- HASHNODE:START -->
 
 <!-- HASHNODE:END -->
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esl1h&theme=onedark&rank=-?" alt="esl1h" />
-</a> 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=esl1h)](https://github.com/ryo-ma/github-profile-trophy)
-</br>
 
   <a href="https://github.com/Esl1h/Esl1h"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Esl1h&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a> 
   <a href="https://github.com/Esl1h/Esl1h"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esl1h&show_icons=true&locale=en&layout=compact&theme=dark" alt="esl1h" /></a>
