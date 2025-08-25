@@ -135,13 +135,10 @@
   <summary><b>PGP</b></summary>
     <p>
       
-```
+```Public Key
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: ID do usuário:	Esli <esli@murena.io>
-Comment: Válido a partir de:	7/18/25 12:46 PM
-Comment: Tipo:	EdDSA de 255 bits (chave privada disponível)
-Comment: Uso:	Assinatura, Criptografia, Certificando IDs de usuário
-Comment: Impressão digital:	6DDA 9E48 41D4 B1F1 E43A  6477 5EF7 4834 A3C9 651A
+Comment: Type:	EdDSA de 255 bits
+Comment: fingerprint:	6DDA 9E48 41D4 B1F1 E43A  6477 5EF7 4834 A3C9 651A
 
 mDMEaHpsWRYJKwYBBAHaRw8BAQdAHfBFDttJjXjg+3yBzzxR1X25+MrNxX9tU4Uo
 kL892ZO0FUVzbGkgPGVzbGlAbXVyZW5hLmlvPoiTBBMWCgA7AhsDBQsJCAcCAiIC
