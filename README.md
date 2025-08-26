@@ -75,7 +75,7 @@
 </details>
 
 
-<!-- About github-profile-trophy -->
+<!-- About github-profile-trophy 
 <details>
   <summary><b>👤 github-profile-trophy</b></summary>
     <p>
@@ -94,7 +94,7 @@
     
 ----
   </p>
-</details>
+</details> -->
 
 
 <!-- About articles -->
@@ -117,7 +117,7 @@
   </p>
 </details>
 
-<!-- About articles -->
+<!-- About github stats
 <details>
   <summary><b>Github Stats</b></summary>
     <p>
@@ -129,10 +129,10 @@
     
 ----
   </p>
-</details>
+</details>  -->
 
 <details>
-  <summary><b>PGP</b></summary>
+  <summary><b>🔐 PGP</b></summary>
     <p>
       
 ```Public Key
