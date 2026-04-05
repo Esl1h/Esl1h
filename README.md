@@ -10,7 +10,7 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<!-- <a href="mailto:   " title="Email Address"><code>  </code></a> │ --><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/6DDA9E4841D4B1F1E43A64775EF74834A3C9651A" title="PGP Public Key"><code>5EF7 4834 A3C9 651A</code></a> | <a href="https://keybase.io/esl1h/pgp_keys.asc?fingerprint=aeb30f179f402d37522586e584cb48faad1264d2" title="keybase"><code>(at)keybase.io</code></a> │ <a href="https://matrix.to/#/@esli:matrix.org" title="Matrix User ID"><code>@esli:matrix.org</code></a>
+<!-- <a href="mailto:   " title="Email Address"><code>  </code></a> │ --><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/6DDA9E4841D4B1F1E43A64775EF74834A3C9651A" title="PGP Public Key"><code>5EF7 4834 A3C9 651A</code></a> | <a href="https://keybase.io/esl1h/pgp_keys.asc?fingerprint=aeb30f179f402d37522586e584cb48faad1264d2" title="keybase"><code>(at)keybase.io</code></a> │ <a href="https://matrix.to/#/@esli:matrix.org" title="Matrix User ID"><code>@esli:matrix.org</code></a> │ <a href="https://age1yubikey1qfvyh29sgkgwj6fx3see6ea54zl9rfhrjz3a4hrejqtnwvclfktrygh6ecj" title="age"><code>age</code></a>
 </p>
 
 
@@ -130,6 +130,19 @@
 ----
   </p>
 </details>  -->
+<details>
+  <summary><b>🔐 age</b></summary>
+    <p>
+      
+```Public Key
+age public key: age1yubikey1qfvyh29sgkgwj6fx3see6ea54zl9rfhrjz3a4hrejqtnwvclfktrygh6ecj
+#Private key stored on YubiKey (hardware-bound, non-exportable).
+```
+
+</p>
+----
+  </p>
+</details>
 
 <details>
   <summary><b>🔐 PGP</b></summary>
