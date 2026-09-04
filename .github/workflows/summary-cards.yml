@@ -1,0 +1,25 @@
+name: summary-cards
+
+on:
+  schedule:
+    - cron: "42 6 * * *"          # 03:42 America/Sao_Paulo
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: -3
+          EXCLUDE: "HTML,CSS,Smarty,Batchfile"
+          THEME: github_dark
+          AUTO_PUSH: true

@@ -1,0 +1,66 @@
+name: metrics
+
+on:
+  schedule:
+    - cron: "17 6 * * *"          # 03:17 America/Sao_Paulo
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  overview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Esl1h
+          filename: metrics/overview.svg
+          config_timezone: America/Sao_Paulo
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          repositories_forks: no
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 15
+
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Esl1h
+          filename: metrics/languages.svg
+          base: ""
+          config_timezone: America/Sao_Paulo
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 10
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_ignored: html, css, smarty, hcl
+          plugin_languages_threshold: 1%
+
+  habits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Esl1h
+          filename: metrics/habits.svg
+          base: ""
+          config_timezone: America/Sao_Paulo
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
