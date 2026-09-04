@@ -111,6 +111,7 @@ DOCK_TILE = 64
 SHELF_TOP = 78
 NEUTRAL = "#7F8D9B"
 AMBER = "#D2932C"
+DOCK_DISPLAY_H = 68  # <img height> in the README; tiles are natively 92px tall, so this stays supersampled
 
 # label, title (tooltip/href key), href, running-indicator
 DOCK_ITEMS = [
@@ -175,7 +176,7 @@ def main():
             name = f"{n:02d}-sep.svg"
             with open(os.path.join(DOCK_DIR, name), "w") as f:
                 f.write(dock_separator_svg())
-            dock_markup.append(f'<img src="./assets/dock/{name}" alt="" height="46">')
+            dock_markup.append(f'<img src="./assets/dock/{name}" alt="" height="{DOCK_DISPLAY_H}">')
             continue
         n += 1
         slug = label.replace(".", "").replace(" ", "-")
@@ -184,7 +185,7 @@ def main():
             f.write(dock_tile_svg(label, running))
         dock_markup.append(
             f'<a href="{href}" title="{title}">'
-            f'<img src="./assets/dock/{name}" alt="{title}" height="46"></a>'
+            f'<img src="./assets/dock/{name}" alt="{title}" height="{DOCK_DISPLAY_H}"></a>'
         )
 
     # no whitespace between the tags: that is what keeps the shelf continuous
