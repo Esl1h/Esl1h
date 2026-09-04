@@ -184,7 +184,9 @@ In English: [RTFM: Read The F\*cking Manual](https://esli.blog/posts/rtfm-read-t
 
 <!-- Generated daily by GitHub Actions and committed to this repo. No third-party runtime. -->
 
-<img src="./metrics/overview.svg" alt="Repositories, activity and contribution calendar" width="100%">
+<p align="center">
+<img src="./metrics/overview.svg" alt="Repositories, activity and contribution calendar" width="480">
+</p>
 
 <p>
   <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" width="49%">
