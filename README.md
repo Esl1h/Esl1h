@@ -185,23 +185,25 @@ In English: [RTFM: Read The F\*cking Manual](https://esli.blog/posts/rtfm-read-t
 <!-- Generated daily by GitHub Actions and committed to this repo. No third-party runtime. -->
 
 <p align="center">
-<img src="./metrics/overview.svg" alt="Repositories, activity and contribution calendar" width="480">
+<img src="./metrics/overview.svg" alt="Repositories, activity and contribution calendar" width="560">
 </p>
 
-<p>
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" width="49%">
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits per language" width="49%">
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" width="380">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits per language" width="380">
 </p>
-<p>
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stars, commits, pull requests, issues and contributions" width="49%">
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Commits by hour of day" width="49%">
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stars, commits, pull requests, issues and contributions" width="380">
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Commits by hour of day" width="380">
 </p>
 
 <details>
 <summary><b>Languages, habits and follow-up</b></summary>
 
-<img src="./metrics/languages.svg" alt="Languages by bytes and by recent commits" width="100%">
-<img src="./metrics/habits.svg" alt="Coding habits: hours, days and indentation" width="100%">
+<p align="center">
+<img src="./metrics/languages.svg" alt="Languages by bytes and by recent commits" width="560">
+<img src="./metrics/habits.svg" alt="Coding habits: hours, days and indentation" width="560">
+</p>
 
 </details>
 
