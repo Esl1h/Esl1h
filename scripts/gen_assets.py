@@ -88,7 +88,7 @@ def hero_svg(theme: str) -> str:
     <g stroke="{c['grid']}" stroke-width="1">{grid}</g>
     {"".join(bars)}
     <text x="56" y="104" font-family="{MONO}" font-size="46" font-weight="700" letter-spacing="1" fill="{c['name']}">Esli Silva</text>
-    <text x="58" y="140" font-family="{MONO}" font-size="17" fill="{c['dim']}">SRE &#183; Network &#183; GNU/Linux &#183; Brazil / Portugal</text>
+    <text x="58" y="140" font-family="{MONO}" font-size="17" fill="{c['dim']}">SRE &#183; Network &#183; GNU/Linux</text>
     <text x="58" y="176" font-family="{MONO}" font-size="17" fill="{c['amber']}">esli.blog</text>
     <line x1="56" y1="212" x2="1144" y2="212" stroke="{c['grid']}" stroke-width="1"/>
     {"".join(tags)}
