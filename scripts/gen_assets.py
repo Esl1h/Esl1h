@@ -184,7 +184,7 @@ def main():
         with open(os.path.join(DOCK_DIR, name), "w") as f:
             f.write(dock_tile_svg(label, running))
         dock_markup.append(
-            f'<a href="{href}" title="{title}">'
+            f'<a href="{href}" title="{title}" target="_blank" rel="noopener">'
             f'<img src="./assets/dock/{name}" alt="{title}" height="{DOCK_DISPLAY_H}"></a>'
         )
 
