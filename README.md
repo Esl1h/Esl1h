@@ -73,6 +73,9 @@ Open-source tools and experiments, grouped by area. Expand a group to see the li
 
 Thirty-something [gists](https://gist.github.com/Esl1h) of things I got tired of rewriting:
 
+<details>
+<summary><b>Gists</b> (7 featured)</summary>
+
 | Snippet | Use |
 |---|---|
 | [SRE system prompt](https://gist.github.com/Esl1h/5188c37cf6136bf6cb009b94bec11912) (`pt`/`en`) | LLM system prompt for SRE, DevOps and sysadmin work |
@@ -83,12 +86,17 @@ Thirty-something [gists](https://gist.github.com/Esl1h) of things I got tired of
 | [Orphan AWS load balancers](https://gist.github.com/Esl1h/ebab9460f9f8f1a127708ffc79ece7a4) | Finds LBs with no healthy targets attached |
 | [Parse YAML in Bash](https://gist.github.com/Esl1h/ae6aa5262c19b4e3774d29868b76dd18) | No `yq`, no Python, just `sed` and stubbornness |
 
+</details>
+
 ---
 
 ## Writing
 
 Long-form at [esli.blog](https://esli.blog), mostly Portuguese, some pieces in both
 languages. Most of it is written as a series, so each one has an entry point.
+
+<details>
+<summary><b>Series index</b> (8 series)</summary>
 
 | Series | Parts | Start here |
 |---|---|---|
@@ -100,6 +108,8 @@ languages. Most of it is written as a series, so each one has an entry point.
 | **AI for SRE** | 7 | [Why I use Claude for SRE work](https://esli.blog/posts/ai-para-sre-por-que-usar-o-claude/) |
 | **V for sysadmins** | 5 | [From Bash to V](https://esli.blog/posts/de-bash-para-v-um-guia-pratico-para-sysadmins-sres-devops/) |
 | **Linux audio & DAWs** | 6 | [Bass on Linux with the SSL 2+ MkII](https://esli.blog/posts/contrabaixo-no-linux/) |
+
+</details>
 
 <details>
 <summary><b>YubiKey: full series</b></summary>
