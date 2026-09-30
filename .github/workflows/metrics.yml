@@ -29,24 +29,6 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_limit: 15
 
-  languages:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRIC_TOKEN }}
-          user: Esl1h
-          filename: metrics/languages.svg
-          base: ""
-          config_timezone: America/Sao_Paulo
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 10
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_ignored: html, css, smarty, hcl
-          plugin_languages_threshold: 1%
-
   habits:
     runs-on: ubuntu-latest
     steps:
@@ -57,10 +39,5 @@ jobs:
           filename: metrics/habits.svg
           base: ""
           config_timezone: America/Sao_Paulo
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
           plugin_followup: yes
           plugin_followup_sections: repositories, user
