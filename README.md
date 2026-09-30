@@ -17,7 +17,10 @@ at **[esli.blog](https://esli.blog)**.
 
 ## Projects
 
-**Infrastructure & SRE**
+Open-source tools and experiments, grouped by area. Expand a group to see the list.
+
+<details>
+<summary><b>Infrastructure & SRE</b> (5)</summary>
 
 | Project | Stack | What it does |
 |---|---|---|
@@ -27,7 +30,10 @@ at **[esli.blog](https://esli.blog)**.
 | [sysz-ng](https://github.com/Esl1h/sysz-ng) | Shell | `fzf` terminal UI for `systemctl` |
 | [ai-md-stack](https://github.com/Esl1h/ai-md-stack) | Shell | One canonical `AGENTS.md` shared across coding agents, with enforcement hooks |
 
-**Privacy & security**
+</details>
+
+<details>
+<summary><b>Privacy & security</b> (4)</summary>
 
 | Project | Stack | What it does |
 |---|---|---|
@@ -36,7 +42,10 @@ at **[esli.blog](https://esli.blog)**.
 | [Brave-Filters-and-Scriptlets](https://github.com/Esl1h/Brave-Filters-and-Scriptlets) | JS | Custom adblock filters and scriptlets for Brave |
 | [proton-launcher-extension](https://github.com/Esl1h/proton-launcher-extension) | JS | Opens Proton services as web apps on Chromium browsers |
 
-**Linux workstation**
+</details>
+
+<details>
+<summary><b>Linux workstation</b> (4)</summary>
 
 | Project | Stack | What it does |
 |---|---|---|
@@ -45,13 +54,18 @@ at **[esli.blog](https://esli.blog)**.
 | [easy1090](https://github.com/Esl1h/easy1090) | Shell | One-command ADS-B stack on Arch: RTL-SDR driver, `readsb` and feeders |
 | [linux-daw-ssl-lowlatency](https://github.com/Esl1h/linux-daw-ssl-lowlatency) | Shell | Exclusive ALSA access for DAWs under PipeWire, at the lowest latency |
 
-**Apps & experiments**
+</details>
+
+<details>
+<summary><b>Apps & experiments</b> (3)</summary>
 
 | Project | Stack | What it does |
 |---|---|---|
 | [climabr.app](https://github.com/Esl1h/climabr.app) | Astro | Brazilian weather and environmental dashboard |
 | [tokenmeter](https://github.com/Esl1h/tokenmeter) | Python | Pi Zero 2 W + e-ink display showing LLM token quota and usage |
 | [humanize-br](https://github.com/Esl1h/humanize-br) | Python | Rewrites AI-sounding text into natural pt-BR |
+
+</details>
 
 ---
 
@@ -198,11 +212,10 @@ In English: [RTFM: Read The F\*cking Manual](https://esli.blog/posts/rtfm-read-t
 </p>
 
 <details>
-<summary><b>Languages, habits and follow-up</b></summary>
+<summary><b>Issues and pull requests follow-up</b></summary>
 
 <p align="center">
-<img src="./metrics/languages.svg" alt="Languages by bytes and by recent commits" width="560">
-<img src="./metrics/habits.svg" alt="Coding habits: hours, days and indentation" width="560">
+<img src="./metrics/habits.svg" alt="Issues and pull requests status" width="560">
 </p>
 
 </details>
